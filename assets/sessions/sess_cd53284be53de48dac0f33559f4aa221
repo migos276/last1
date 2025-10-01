@@ -1,0 +1,1 @@
+user|a:4:{s:2:"id";i:1;s:5:"email";s:18:"admin@boutique.com";s:4:"name";N;s:4:"role";s:5:"admin";}csrf_token|s:64:"bb1acda3cb1e284eca98599563a845197f28b5ed705a8352854e3b9fc837d57a";error|s:44:"Session expirée. Veuillez vous reconnecter.";
